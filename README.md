@@ -90,7 +90,7 @@ The JSON Form library may require further libraries, depending on the features y
 - [Bootstrap](https://github.com/twbs/bootstrap) v2.0.3 or above is more or less needed (unless you enjoy ugly forms, that is) if you don't provide your own styles. JSON Form only needs the ```bootstrap.css``` file.
 - The [JSON Schema Validator](https://github.com/garycourt/JSV) is used to detect and report validation errors upon form submission. The [deps/opt](https://github.com/joshfire/jsonform/tree/master/deps/opt) folder contains a "build" of the JSON Schema Validator for use in JSON Form.
 - [Bootstrap Dropdowns](https://github.com/twbs/bootstrap/blob/master/javascript.html) v2.0.3 or above is needed for ```imageselect``` fields.
-- [jQuery UI Sortable](http://jqueryui.com/demos/sortable/) v1.8.20 or above is required for drag-and-drop support within arrays and tabarrays. Note the plugin itself depends on jQuery IU Core, jQuery UI Mouse, and jQuery UI Widget.
+- [jQuery UI Sortable](http://jqueryui.com/demos/sortable/) v1.8.20 or above is required for drag-and-drop support within arrays and tabarrays. Note the plugin itself depends on jQuery UI Core, jQuery UI Mouse, and jQuery UI Widget.
 - [wysihtml5](http://jhollingworth.github.com/bootstrap-wysihtml5/) is required if the form uses ```wysihtml5``` textarea fields.
 - [Spectrum](http://bgrins.github.com/spectrum/) is required if the form uses `color` fields.
 
